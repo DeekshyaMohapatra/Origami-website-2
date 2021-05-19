@@ -1,0 +1,26 @@
+
+h1{
+color:rgb(115, 128, 0)
+  }
+.menu{
+      display: flex;
+      justify-content: space-between;
+      background-color: black;
+      
+     }
+
+.grid img{
+     border:2px solid black
+     
+     
+}     
+.origami{
+     border-radius: 50px ;
+     background-color: rgb(230, 224, 203);
+     
+}
+.main{
+     background-color: black;
+       display: flex;
+       justify-content: space-around;
+}
